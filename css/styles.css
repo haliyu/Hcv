@@ -1,0 +1,43 @@
+body{margin: 0;
+text-align: center;}
+h1{margin-top: 50px; font-size: 50px; font-style: italic;}
+p{font-size: 2.5em} 
+
+.top-container {background-color: #E4F9F5; position: relative; padding-top: 100px;
+}
+
+
+.c-small{width: 200px;
+height: 100px; margin-left: 500px}
+.cc-small{width: 200px; height: 100px;position: absolute;
+}
+.m-big{width: 800px;
+height: 400px; margin-top:10px}
+
+.Hassan {
+	box-shadow: 0px 11px 18px -10px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:9px;
+	border:1px solid #29668f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-style:italic;
+	padding:9px 20px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #3d768a;
+	margin: 20px 0px 20px 0px
+}
+.Hassan:hover {color: blue;
+	background:linear-gradient( to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.Hassan:active {
+	position:relative;
+	top:1px;
+}
+
+
